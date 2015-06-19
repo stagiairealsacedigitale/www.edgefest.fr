@@ -1,0 +1,25 @@
+<section class="summercamp thin" id="summercamp">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <h2>Summer Camp</h2>
+      </div>
+    </div>
+  </div>
+</section>
+<section id="decouvertessonores" class="summercamp pt-20">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-6">
+      Date :    <ul><li>Du mardi 7 au mercredi 8 juillet</li>
+      </ul>
+      <p>Lieu : <b>Médiathèque André Malraux 1 Presqu’île Malraux, 67100 Strasbourg</b>
+      Evénement gratuit. Réservation : <a href="mailto:contact.shadok@strasbourg.eu">contact.shadok@strasbourg.eu</a><br>
+      Rencontres créatives pour les plus ou moins jeunes autour d’ateliers de découvertes de techniques et d’outils du numérique. Ces rendez-vous ont pour but d’initier tout un chacun à des outils innovants, accompagnés par des professionnels.
+      </p>
+      </br>
+      <p>Le Summer Camp aura lieu au cours de la semaine après le festival EdgeFest.</p>
+       <img src="/img/summercamp4.jpg" />
+    </div>
+  </div>
+</section>
